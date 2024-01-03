@@ -1,0 +1,16 @@
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\bin\Debug\net8.0-windows\thovpp.FAP.StudentMgt.exe
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\bin\Debug\net8.0-windows\thovpp.FAP.StudentMgt.deps.json
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\bin\Debug\net8.0-windows\thovpp.FAP.StudentMgt.runtimeconfig.json
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\bin\Debug\net8.0-windows\thovpp.FAP.StudentMgt.dll
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\bin\Debug\net8.0-windows\thovpp.FAP.StudentMgt.pdb
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.StudentListForm.resources
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.csproj.GenerateResource.cache
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.AssemblyInfoInputs.cache
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.AssemblyInfo.cs
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.csproj.CoreCompileInputs.cache
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.dll
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\refint\thovpp.FAP.StudentMgt.dll
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.pdb
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\thovpp.FAP.StudentMgt.genruntimeconfig.cache
+D:\PRN211\thovpp.FAP\thovpp.FAP.StudentMgt\obj\Debug\net8.0-windows\ref\thovpp.FAP.StudentMgt.dll
